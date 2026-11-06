@@ -113,7 +113,7 @@ function Upload({ onBatchStarted, onUploaded, cancelUploadRef }: { onBatchStarte
   return (
     <>
       <header className="upload-intro">
-        <h1>Good creative starts with clarity.</h1>
+        <h1>Generate Video Analysis</h1>
         <p>Evaluate creator videos, find what works, and make your next move with confidence.</p>
       </header>
       <section
